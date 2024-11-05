@@ -5,3 +5,4 @@ microsoft excel for data cleaning and summarization of tota sales by product,reg
 Power bi for visualization, 
 sql for data extraction.
 # SALES SUMMARY USING PIVOT TABLE
+https://github.com/Charity92/LITA-DATA-ANALYSIS-PROJECT/blob/main/LITA%20DATASET%20PROJECT.xlsx
