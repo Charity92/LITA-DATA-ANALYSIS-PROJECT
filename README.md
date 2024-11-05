@@ -17,8 +17,11 @@ https://github.com/Charity92/LITA-DATA-ANALYSIS-PROJECT/blob/main/POWER%20BI%20L
 From the pivot table,the summary of the total sales of each product, by region and by month was derived
 average sales per product,total revenue by region as well as percentage sales of each product was also known.
 # visualization
-from the sales data report,the most sold product is shoes and the highest regional sales is the southern region
-between the year 2023 and 2024, there were decine in some sales of products such as socks,shirt,jacket gloves.
+from the sales data report,the most sold product is shoe and the highest regional sales is the southern region.
+
+between the year 2023 and 2024, there was a decine in some sales of products such as socks,shirt,jacket gloves.
+
+by analysis of the monthly sales,each product occured one after the other in each month with shoe being sold the highest in the month of february.
 
 
 
