@@ -16,6 +16,7 @@ https://github.com/Charity92/LITA-DATA-ANALYSIS-PROJECT/blob/main/LITA%20DATASET
 # CUSTOMER SUBSCRIPTION VISUALIZATION PATTERN USING POWER BI
 https://github.com/Charity92/LITA-DATA-ANALYSIS-PROJECT/blob/main/POWER%20BI%20LITA%20PROJECT%20(1)%20(1).pbix
 # DERIVATION AND INSIGHTS
+https://app.powerbi.com/reportEmbed?reportId=af565c61-9ca9-46ab-9455-ca5acf04ecf0&autoAuth=true&ctid=691207b1-e3b6-4855-90cd-a78e690e1432
 
 # SALES SUMMARY
 
